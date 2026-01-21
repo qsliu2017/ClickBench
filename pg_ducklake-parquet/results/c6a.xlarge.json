@@ -7,8 +7,8 @@
     "hardware": "cpu",
     "tuned":   "no",
     "tags":   ["column-oriented","PostgreSQL compatible", "lukewarm-cold-run"],
-    "load_time": 0,
-    "data_size": 14820803219,
+    "load_time": 128.95,
+    "data_size": 14400541867,
     "result": [
       [0.374231,0.123696,0.12987],
       [0.477184,0.116529,0.117214],
