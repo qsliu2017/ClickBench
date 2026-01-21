@@ -1,4 +1,4 @@
-create view hits as
+create table hits using ducklake as
 select
     r['WatchID'] AS WatchID,
     r['JavaEnable'] AS JavaEnable,

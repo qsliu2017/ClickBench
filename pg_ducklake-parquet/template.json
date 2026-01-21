@@ -1,5 +1,5 @@
 {
-  "system": "pg_duckdb (Parquet)",
+  "system": "pg_ducklake (Parquet)",
   "proprietary": "no",
   "hardware": "cpu",
   "tuned": "no",
